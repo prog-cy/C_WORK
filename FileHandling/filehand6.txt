@@ -1,0 +1,24 @@
+This is old content.
+And it will remains same.
+when I am modifying the file. 
+
+And now I am adding new content
+in the file,
+and it is good practice.
+for file handling.
+
+And again I am adding new 
+content in the file
+it will also print in the 
+file.
+
+I am third time writing in the file.
+
+I am adding new content
+in the file fourth time.
+and it is good for me
+that i could do this.
+
+I used fseek() and SEEK_END
+to do this task
+

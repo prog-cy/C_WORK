@@ -1,0 +1,5 @@
+Hello I am handling file using c language.
+And I am using fputc() and fgetc() for rad and write in the file. 
+This is easy way to handle a file.
+
+And one more thing I want to add here that this the basic thing that we can do in file handling.
